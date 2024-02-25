@@ -60,6 +60,7 @@ export default function Video({ channel, song, url, likes, comment, shares }) {
         loop
         autoPlay={isVideoInView}
       />
+
       <Footer
         channel={channel}
         song={song}
