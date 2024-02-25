@@ -1,6 +1,3 @@
-Got it! Here's the README.md for your project:
-
-```markdown
 # Shorts App
 
 Shorts App is a React-based web application for viewing short videos. It provides a simple interface for users to watch various short video clips.
@@ -45,7 +42,7 @@ Make sure you have Node.js and npm installed on your machine.
 
 1. Run the application
    ```sh
-   npm start
+   npm run dev
    ```
 2. Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
 
@@ -55,28 +52,13 @@ Make sure you have Node.js and npm installed on your machine.
   - `components/`: Contains React components for Header, Footer, and Video.
   - `assets/`: Contains video files used in the application.
   - `App.css`: Styles for the main App component.
-  - `App.js`: Main component rendering the application.
-  - `index.js`: Entry point for rendering the React app.
+  - `App.jsx`: Main component rendering the application.
+  - `index.jsx`: Entry point for rendering the React app.
 
-## Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Shubham Kumar - [LinkedIn](https://www.linkedin.com/in/shubham-kumar25/)
+Shubham Kumar - [LinkedIn]([[https://www.linkedin.com/in/shubham-kumar25/](https://www.linkedin.com/in/shubham-sharmaaaa/)](https://www.linkedin.com/in/shubham-sharmaaaa/))
 
 Project Link: [https://github.com/Shubham-Kumar25/Shorts-App](https://github.com/Shubham-Kumar25/Shorts-App)
 ```
-
-This README provides information on how to install, use, and contribute to the project, as well as details on its folder structure, technologies used, and licensing. Feel free to customize it further to better suit your project's needs.
