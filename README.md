@@ -44,7 +44,7 @@ Make sure you have Node.js and npm installed on your machine.
    ```sh
    npm run dev
    ```
-2. Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
+2. Open [http://localhost:3000](http://localhost:3000) or [http://localhost:5174](http://localhost:5174) in your browser to view the app.
 
 ## Folder Structure
 
@@ -58,7 +58,6 @@ Make sure you have Node.js and npm installed on your machine.
 
 ## Contact
 
-Shubham Kumar - [LinkedIn]([[https://www.linkedin.com/in/shubham-kumar25/](https://www.linkedin.com/in/shubham-sharmaaaa/)](https://www.linkedin.com/in/shubham-sharmaaaa/))
+Shubham Kumar - [LinkedIn]([(https://www.linkedin.com/in/shubham-sharmaaaa/)](https://www.linkedin.com/in/shubham-sharmaaaa/))
 
 Project Link: [https://github.com/Shubham-Kumar25/Shorts-App](https://github.com/Shubham-Kumar25/Shorts-App)
-```
