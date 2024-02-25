@@ -4,7 +4,7 @@ Shorts App is a React-based web application for viewing short videos. It provide
 
 ## Features
 
-- Displays short videos with video details such as channel, song, likes, comments, and shares.
+- Displays short videos with details such as channel, song, likes, comments, and shares.
 - Videos autoplay when they are in view.
 - Allows users to pause/play videos by clicking on them.
 - Responsive design for optimal viewing on different screen sizes.
@@ -17,7 +17,7 @@ Shorts App is a React-based web application for viewing short videos. It provide
 
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 
@@ -58,6 +58,6 @@ Make sure you have Node.js and npm installed on your machine.
 
 ## Contact
 
-Shubham Kumar - [LinkedIn]([(https://www.linkedin.com/in/shubham-sharmaaaa/)](https://www.linkedin.com/in/shubham-sharmaaaa/))
+Shubham Kumar - [LinkedIn](https://www.linkedin.com/in/shubham-sharmaaaa/)
 
 Project Link: [https://github.com/Shubham-Kumar25/Shorts-App](https://github.com/Shubham-Kumar25/Shorts-App)
