@@ -1,0 +1,34 @@
+html {
+  scroll-snap-type: y mandatory;
+}
+
+.App {
+  display: grid;
+  place-items: center;
+  height: 100%;
+  background-color: rgb(26, 25, 25);
+  color: #fff;
+}
+
+.center-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.video-container {
+  position: relative;
+  height: 90vh;
+  width: 60%;
+  max-width: 500px;
+  border-radius: 20px;
+  background-color: white;
+  overflow: scroll;
+  scroll-snap-type: y mandatory;
+  scrollbar-width: none;
+}
+
+.video-container::-webkit-scrollbar {
+  display: none;
+}
